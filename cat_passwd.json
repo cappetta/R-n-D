@@ -1,0 +1,6 @@
+{
+"entrypoint": "cat /etc/passwd",
+
+"runtime_env": { },
+"metadata": {}
+}

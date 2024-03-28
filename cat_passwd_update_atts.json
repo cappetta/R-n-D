@@ -1,0 +1,9 @@
+{
+"entrypoint": "cat /etc/passwd",
+"submission_id": "exploited_1",
+"runtime_env": { },
+"metadata": {},
+"entrypoint_num_cpus": 1,
+"entrypoint_num_gpus": 0,
+"entrypoint_resources": {}
+}
